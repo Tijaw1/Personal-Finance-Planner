@@ -7,3 +7,5 @@ The personal finance planner will allow members/users to visualize their savings
 The retirement planning tool will use the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. It will use  the Monte Carlo data to calculate the expected portfolio returns given a specific initial investment amount.
 
 The program also allows the members/users to run Monte Carlo simulations to project the portfolio performance at 5 and 10 years. It will use the simulation data to calculate the expected portfolio returns given a specific initial investment amount.
+
+
