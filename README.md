@@ -1,5 +1,7 @@
 # Personal-Finance-Planner
 
+![Planner](https://github.com/Tijaw1/Personal-Finance-Planner/blob/main/financial-planner.png)
+
 The program allows the credit union members to assess their monthly personal finances, and be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds funds the members have.
 
 The personal finance planner will allow members/users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
